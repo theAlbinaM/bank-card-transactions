@@ -1,9 +1,6 @@
 package ru.almyal.cards;
 
 import java.util.Map;
-import java.util.stream.Collector;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class CreditCard extends BankCard {
     private final double creditLimit;
